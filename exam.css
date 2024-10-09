@@ -62,6 +62,18 @@ body,td,th {
 	margin:0px 1em 1em 0px;
 }
 
+
+
+.text-box {
+    background-color: #fff;    /* White background for the box */
+    border: 2px solid #007BFF; /* Blue border */
+    border-radius: 10px;       /* Rounded corners */
+    padding: 20px;             /* Space inside the box */
+    width: 300px;              /* Fixed width for the box */
+    text-align: center;        /* Center the text inside the box */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
 .heading {background-color:#FF3;
 padding:.75em;
 text-align:center;}
