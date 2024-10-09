@@ -62,7 +62,14 @@ body,td,th {
 	margin:0px 1em 1em 0px;
 }
 
-
+.text-box {
+    background-color: #fff;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: left; /* Align text inside */
+}
 
 
 
