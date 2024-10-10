@@ -14,10 +14,10 @@ font-size:2.5em;}
 	margin-left: auto;
 }
 .tales {
-    float: left;
-    width: 600px;
-    border-bottom:solid 1px #000000;
-	
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 45%;               /* Set a width for each box */
+    box-sizing: border-box; 
 }
 
 
