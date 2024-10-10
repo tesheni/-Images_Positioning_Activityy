@@ -14,9 +14,10 @@ font-size:2.5em;}
 	margin-left: auto;
 }
 .tales {
-	float: left;
-	width: 600px;
-	border-bottom:solid 1px #000000;
+	 margin-right: 20px; /* Space between boxes */
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 200px; 
 	
 }
 
