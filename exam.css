@@ -13,16 +13,14 @@ font-size:2.5em;}
 	margin-bottom: 0px;
 	margin-left: auto;
 }
-.taless {
+.tales {
   
-    background-color: #f9f9f9; /* Optional background for visibility */
-    border: 1px solid #ccc;
-    padding: 20px;
-    width: 300px;
-   
-float: right;
-width: 600px;
-border-bottom:solid 1px #000000;
+    background-color: #fff9c4; /* light yellow background */
+    border-left: 5px solid #00ff00; /* green border */
+    padding: 15px;
+    flex: 1;
+    max-width: 48%; /* Adjust max width to control alignment */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 
