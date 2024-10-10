@@ -14,12 +14,16 @@ font-size:2.5em;}
 	margin-left: auto;
 }
 .tales {
-    padding: 20px;
+    /*padding: 20px;
     border: 1px solid #ccc;
     width: 45%;               /* Set a width for each box */
-    box-sizing: border-box; 
-    margin-right: 56px; /* Add right margin to create space */
-    margin-top: 0; /* Ensure no top margin is pushing it down */
+   /* box-sizing: border-box; */
+
+	position: relative;    /* Enable relative positioning */
+    top: -10px;            /* Move it up slightly */
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;   
 }
 
 
