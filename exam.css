@@ -19,6 +19,7 @@ font-size:2.5em;}
     width: 45%;               /* Set a width for each box */
     box-sizing: border-box; 
     margin-right: 56px; /* Add right margin to create space */
+    margin-top: 0; /* Ensure no top margin is pushing it down */
 }
 
 
