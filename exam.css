@@ -37,6 +37,8 @@ font-size:2.5em;}
     padding: 20px; /* Inner padding */
     box-sizing: border-box; /* Include padding and border in width */
     margin-right: 2%; /* Space between the boxes */
+    text-align: right;
+
 
 }
 
