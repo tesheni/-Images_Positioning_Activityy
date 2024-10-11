@@ -14,7 +14,7 @@ font-size:2.5em;}
 	margin-left: auto;
 }
 
-.tales {
+/*.tales {
      padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     flex: 1;
@@ -25,9 +25,20 @@ font-size:2.5em;}
   width: 300px;
   border: 3px solid #73AD21;
   padding: 10px;
+} */
+
+.tales {
+    display: inline-block; /* Allows the boxes to sit next to each other */
+    width: 48%; /* Width to fit two boxes side by side */
+    vertical-align: top; /* Align them at the top */
+    background-color: yellow; /* Background color */
+    border: 2px solid #007BFF; /* Border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Inner padding */
+    box-sizing: border-box; /* Include padding and border in width */
+    margin-right: 2%; /* Space between the boxes */
+
 }
-
-
 
 
 
