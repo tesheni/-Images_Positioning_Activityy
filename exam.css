@@ -37,7 +37,7 @@ font-size:2.5em;}
     padding: 20px; 
     box-sizing: border-box; 
     margin-right: 2%; 
-    margin-top: 0; /* Set to 0 to remove any top margin */
+    margin-top: 10px; /* Set to 0 to remove any top margin */
     margin-bottom: 0; /* Adjust bottom margin if needed */
 
 }
