@@ -50,7 +50,7 @@ float: left;
 width: 600px;
 }
 body,td,th {
-font-family: "Lucida Console", "Courier New", monospace;
+font-family: "Times New Roman", Times, serif;
 }
 
 #content p {line-height:1.6em;}
@@ -79,7 +79,7 @@ margin-top:3em!important;
 }
 
 #looks {
-background-color: #DBCDF0;
+background-color: #ffccff
 float: left;
 width: 300px;
 padding:1em;
